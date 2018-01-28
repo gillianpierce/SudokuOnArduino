@@ -1,5 +1,5 @@
 # s(Arduino)ku
-> Arduino for Sudoku!
+> Sudoku for Arduino!
 
 This project implements a client server style sudoku game between
 an arduino client and python server. A user is able to input their own sudoku
